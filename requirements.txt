@@ -1,0 +1,18 @@
+# Core Data & Modeling
+numpy>=2.0.0
+pandas>=2.2.0
+scipy>=1.15.0
+scikit-learn>=1.5.0
+lightgbm>=4.5.0
+xgboost>=3.0.0
+
+# Explainability & Visualizations
+shap>=0.46.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+plotly>=6.0.0
+
+# Notebook & Deployment
+jupyter>=1.0.0
+ipykernel>=6.29.0
+streamlit>=1.40.0
