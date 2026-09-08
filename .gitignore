@@ -10,6 +10,7 @@ __pycache__/
 *$py.class
 .ipynb_checkpoints/
 
-# System
+# System & Logs
 .DS_Store
 Thumbs.db
+*.log
