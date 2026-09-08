@@ -162,13 +162,3 @@ python src/train_pipeline.py
 ```bash
 jupyter notebook notebooks/01_credit_risk_pipeline.ipynb
 ```
-
----
-
-## 👤 Geliştirici ve İletişim
-
-* **Geliştirici:** Melih Dal
-* **GitHub:** [mlhdll](https://github.com/mlhdll)
-* **Depo:** [mlhdll/credit-risk-xai-pipeline](https://github.com/mlhdll/credit-risk-xai-pipeline)
-* **E-posta:** mlhdll16@gmail.com
-* **Rol:** Machine Learning Engineer / Data Scientist
